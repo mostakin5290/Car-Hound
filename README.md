@@ -69,11 +69,10 @@ Make sure your data structure includes:
 
 ## 📷 Screenshots
 
-| Home Page | Filtered Results | Car Details | Wishlist |
-|-----------|------------------|-------------|----------|
+| Home Page | Filtered Results | Shop Page | Wishlist | Car Details |
+|-----------|------------------|-------------|----------|----------|
 
-(Add screenshots in the /screenshots folder and link here)
-
+| ![Home](./src//screenshots/Home-page.png) | ![Filtered](./src/screenshots/filter-result.png) | ![Shop](./src/screenshots/shop-page.png) | ![Wishlist](./src/screenshots/wishlist-page.png) | ![Details](./src/screenshots/details.png) |
 ---
 
 ## 📌 Live Demo
